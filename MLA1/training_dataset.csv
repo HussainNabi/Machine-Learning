@@ -1,0 +1,71 @@
+id,name,age,city,income,score
+1,Alice,29,New York,72000,88
+2,Bob,,Los Angeles,54000,72
+3,Charlie,35,,61000,81
+4,David,42,Chicago,,77
+5,Eve,28,Los Angeles,59000,85
+6,Frank,33,Houston,68000,90
+7,Gina,27,Chicago,52000,69
+8,Hank,41,Denver,75000,92
+9,Ivy,31,New York,71000,87
+10,Jack,,Houston,64000,80
+11,Kate,36,Chicago,66000,
+12,Liam,24,Denver,48000,65
+13,Mona,39,Los Angeles,73000,91
+14,Nate,45,,82000,94
+15,Olivia,26,New York,61000,83
+16,Paul,34,Houston,,79
+17,Quinn,30,Chicago,60000,84
+18,Rita,,Denver,57000,73
+19,Sam,38,New York,69000,89
+20,Tina,25,Los Angeles,51000,70
+21,Alice,29,New York,72000,88
+22,Bob,,Los Angeles,54000,72
+23,Uma,40,Chicago,74000,93
+24,Vincent,23,Houston,47000,62
+25,Wendy,37,Denver,65000,86
+26,Xavier,44,New York,81000,95
+27,Yara,28,,59000,82
+28,Zane,35,Chicago,63000,78
+29,Alice,29,New York,72000,88
+30,,31,Los Angeles,62000,84
+31,Bob,,Los Angeles,54000,72
+32,Charlie,35,,61000,81
+33,David,42,Chicago,,77
+34,Eve,28,Los Angeles,59000,85
+35,Frank,33,Houston,68000,90
+36,Gina,27,Chicago,52000,69
+37,Hank,41,Denver,75000,92
+38,Ivy,31,New York,71000,87
+39,Jack,,Houston,64000,80
+40,Kate,36,Chicago,66000,
+41,Liam,24,Denver,48000,65
+42,Mona,39,Los Angeles,73000,91
+43,Nate,45,,82000,94
+44,Olivia,26,New York,61000,83
+45,Paul,34,Houston,,79
+46,Quinn,30,Chicago,60000,84
+47,Rita,,Denver,57000,73
+48,Sam,38,New York,69000,89
+49,Tina,25,Los Angeles,51000,70
+50,Uma,40,Chicago,74000,93
+51,Vincent,23,Houston,47000,62
+52,Wendy,37,Denver,65000,86
+53,Xavier,44,New York,81000,95
+54,Yara,28,,59000,82
+55,Zane,35,Chicago,63000,78
+56,Alice,29,New York,72000,88
+57,Bob,,Los Angeles,54000,72
+58,Charlie,35,,61000,81
+59,David,42,Chicago,,77
+60,Eve,28,Los Angeles,59000,85
+61,,27,Houston,52000,68
+62,Leo,32,New York,70000,88
+63,Nina,,Chicago,64000,79
+64,Omar,46,Denver,,91
+65,Pia,21,Los Angeles,45000,60
+66,Ryan,35,Houston,67000,86
+67,Sara,29,,58000,75
+68,Tom,38,Chicago,71000,90
+69,Uma,40,Chicago,74000,93
+70,Alice,29,New York,72000,88
