@@ -1,0 +1,17 @@
+Overview
+This dataset contains 70 records of individuals with demographic and performance-related attributes 
+DATASET
+. It is structured in CSV format and was used for data cleaning, preprocessing, and visualization tasks.
+Columns
+id – Unique record identifier
+name – Person’s name
+age – Age (years)
+city – City of residence
+income – Annual income
+score – Performance score
+
+Provided Graphs
+Income distribution graph – Shows overall income spread and identifies potential outliers.
+Score distribution graph – Displays performance trends across individuals.
+City-based comparisons – Highlights differences in average income and scores by city.
+Age vs. Score/Income relationship graphs – Illustrate potential correlations between demographic and performance variables.
